@@ -1,0 +1,8 @@
+Package: leatherman
+Version: 1.4.0
+Architecture: amd64
+Maintainer: Isabel Amaro <iamaro@nvxltech.com>
+Installed-Size: 45558
+Section: misc
+Priority: optional
+Description: leatherman package

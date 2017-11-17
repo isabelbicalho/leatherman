@@ -1,0 +1,12 @@
+Source: leatherman
+Maintainer: Isabel Amaro <iamaro@nvxltech.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9)
+
+Package: leatherman
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: leatherman package 
+ .
